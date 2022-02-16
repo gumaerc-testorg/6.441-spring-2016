@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains the information regarding linear codes. Channel
   capacity.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-441-information-theory-spring-2016/f417578e714d472cb08d463825e45f03_MIT6_441S16_chapter_16.pdf
+file: /media/courses/6-441-information-theory-spring-2016/f417578e714d472cb08d463825e45f03_MIT6_441S16_chapter_16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: '6.441S16: Chapter 16: Linear Codes. Channel Capacity'
 uid: f417578e-714d-472c-b08d-463825e45f03
