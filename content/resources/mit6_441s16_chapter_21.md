@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 99ddf4a2-3a6e-f9c4-342b-b24697590209
 resourcetype: Document
 title: '6.441S16: Chapter 21: Channel Coding with Feedback'
 uid: a5ff16d9-29ef-de1d-8313-e12e372aa94b

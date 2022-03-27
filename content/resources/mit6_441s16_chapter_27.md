@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 99ddf4a2-3a6e-f9c4-342b-b24697590209
 resourcetype: Document
 title: '6.441S16: Chapter 27: Examples of MACs. Maximal Pe and zero-Error Capacity.'
 uid: 86f91ca4-afba-0229-a349-7e6516e28e10

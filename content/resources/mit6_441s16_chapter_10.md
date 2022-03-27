@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 99ddf4a2-3a6e-f9c4-342b-b24697590209
 resourcetype: Document
 title: '6.441S16: Chapter 10: Binary Hypothesis Testing'
 uid: 26fd180f-40b6-773b-f19b-659a4c5e8656

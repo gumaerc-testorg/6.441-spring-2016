@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 99ddf4a2-3a6e-f9c4-342b-b24697590209
 resourcetype: Document
 title: '6.441S16: Chapter 19: Channel Coding: Energy-Per-Bit, Continuous-Time Channels'
 uid: bfe9e45c-2fc4-390c-c3cc-1819c62f1686

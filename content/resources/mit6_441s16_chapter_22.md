@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 99ddf4a2-3a6e-f9c4-342b-b24697590209
 resourcetype: Document
 title: '6.441S16: Chapter 22: Capacity-Achieving Codes Via Forney Concatenation'
 uid: 7553afe0-0a36-3016-4b8e-774456d0fdcf

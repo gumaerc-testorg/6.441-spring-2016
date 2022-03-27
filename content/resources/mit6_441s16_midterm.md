@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c6bbc756-db68-6ff1-13aa-bcf048321db2
 resourcetype: Document
 title: '6.441S16: Midterm Exam'
 uid: 54c587c2-300b-56ab-c6f7-97f020e89325

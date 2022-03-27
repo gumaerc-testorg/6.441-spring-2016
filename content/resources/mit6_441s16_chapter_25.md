@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 99ddf4a2-3a6e-f9c4-342b-b24697590209
 resourcetype: Document
 title: '6.441S16: Chapter 25: Evaluating R(D). Lossy Source-Channel Separation.'
 uid: 5721b7df-786b-416d-adad-7c7bb3364d00
