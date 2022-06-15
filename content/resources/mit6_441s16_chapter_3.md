@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding sufficient statistic.
   Continuity of divergence and mutual information.
-file: /media/courses/6-441-information-theory-spring-2016/486b7d83cc428acf75b74323ecafcc11_MIT6_441S16_chapter_3.pdf
+file: /courses/6-441-information-theory-spring-2016/486b7d83cc428acf75b74323ecafcc11_MIT6_441S16_chapter_3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -15,3 +15,5 @@ title: '6.441S16: Chapter 3: Sufficient Statistic. Continuity of Divergence and 
   Information.'
 uid: 486b7d83-cc42-8acf-75b7-4323ecafcc11
 ---
+This resource contains the information regarding sufficient statistic. Continuity of divergence and mutual information.
+
