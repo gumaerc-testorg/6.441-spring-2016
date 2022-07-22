@@ -5,6 +5,7 @@ file: /courses/6-441-information-theory-spring-2016/8d9b42a8d43e28ca4a75e09fb4a8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '6.441S16: Chapter 14: Channel Coding'
 uid: 8d9b42a8-d43e-28ca-4a75-e09fb4a89371
 ---
 This resource contains the information regarding Channel coding.
-

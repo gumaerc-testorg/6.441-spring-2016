@@ -6,6 +6,7 @@ file: /courses/6-441-information-theory-spring-2016/67d8e68cd8fda55366e3f9f0a946
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.441S16: Chapter 6: Variable-Length Lossless Compression'
 uid: 67d8e68c-d8fd-a553-66e3-f9f0a9465c17
 ---
 This resource contains the information regarding variable-length lossless compression.
-

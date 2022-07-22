@@ -6,6 +6,7 @@ file: /courses/6-441-information-theory-spring-2016/099eee31611a15cbb951bd427a89
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.441S16: Chapter 8: Compressing Stationary Ergodic Sources'
 uid: 099eee31-611a-15cb-b951-bd427a89428f
 ---
 This resource contains the information regarding Compressing stationary ergodic sources.
-

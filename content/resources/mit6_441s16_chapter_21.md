@@ -6,6 +6,7 @@ file: /courses/6-441-information-theory-spring-2016/a5ff16d929efde1d8313e12e372a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.441S16: Chapter 21: Channel Coding with Feedback'
 uid: a5ff16d9-29ef-de1d-8313-e12e372aa94b
 ---
 This resource contains the information regarding channel coding with feedback.
-

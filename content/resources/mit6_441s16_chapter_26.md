@@ -5,6 +5,7 @@ file: /courses/6-441-information-theory-spring-2016/31c5d8ec6bbf9f67c6633ac23863
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '6.441S16: Chapter 26: Multiple-Access Channel'
 uid: 31c5d8ec-6bbf-9f67-c663-3ac2386351ed
 ---
 This resource contains the information regarding multiple-access channel.
-

@@ -6,6 +6,7 @@ file: /courses/6-441-information-theory-spring-2016/83c18c0b0ff3d650e8734b7bc678
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.441S16: Chapter 15: Channel Coding: Achievability Bounds'
 uid: 83c18c0b-0ff3-d650-e873-4b7bc678a2fd
 ---
 This resource contains the information regarding linear codes. Channel Coding: Achievability Bounds.
-

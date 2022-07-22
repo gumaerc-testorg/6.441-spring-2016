@@ -6,6 +6,7 @@ file: /courses/6-441-information-theory-spring-2016/93e2307ddd9995882060ae2289d0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.441S16: Problem Set 10'
 uid: 93e2307d-dd99-9588-2060-ae2289d00061
 ---
 This resource contains the information regarding information theory: Problem set.
-

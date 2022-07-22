@@ -6,6 +6,7 @@ file: /courses/6-441-information-theory-spring-2016/7553afe00a3630164b8e774456d0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.441S16: Chapter 22: Capacity-Achieving Codes Via Forney Concatenation'
 uid: 7553afe0-0a36-3016-4b8e-774456d0fdcf
 ---
 This resource contains the information regarding capacity-achieving codes via forney concatenation.
-

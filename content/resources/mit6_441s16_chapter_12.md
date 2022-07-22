@@ -6,6 +6,7 @@ file: /courses/6-441-information-theory-spring-2016/70ca499b4657031ee80dedff6f4a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.441S16: Chapter 12: Information Projection and Large Deviation'
 uid: 70ca499b-4657-031e-e80d-edff6f4a5a22
 ---
 This resource contains the information regarding Information projection and large deviation.
-

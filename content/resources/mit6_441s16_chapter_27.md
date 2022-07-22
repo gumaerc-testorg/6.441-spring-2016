@@ -6,6 +6,7 @@ file: /courses/6-441-information-theory-spring-2016/86f91ca4afba0229a3497e6516e2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.441S16: Chapter 27: Examples of MACs. Maximal Pe and zero-Error Capaci
 uid: 86f91ca4-afba-0229-a349-7e6516e28e10
 ---
 This resource contains the information regarding examples of MACs. Maximal pe and zero-error capacity.
-

@@ -6,6 +6,7 @@ file: /courses/6-441-information-theory-spring-2016/18e413df88c6303554cc45a6b3b8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.441S16: Chapter 18: Lattice Codes (by O. Ordentlich)'
 uid: 18e413df-88c6-3035-54cc-45a6b3b876b6
 ---
 This resource contains the information regarding lattice codes (by O. Ordentlich).
-

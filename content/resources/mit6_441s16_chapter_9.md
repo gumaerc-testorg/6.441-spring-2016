@@ -5,6 +5,7 @@ file: /courses/6-441-information-theory-spring-2016/18b243d5e475579b7434260214ad
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '6.441S16: Chapter 9: Universal Compression'
 uid: 18b243d5-e475-579b-7434-260214ad9a25
 ---
 This resource contains the information regarding universal compression.
-

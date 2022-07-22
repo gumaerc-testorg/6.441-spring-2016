@@ -6,6 +6,7 @@ file: /courses/6-441-information-theory-spring-2016/62759bed38f742cf4ed72f344ba4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: '6.441S16: Chapter 4: Extremization of Mutual Information: Capacity Saddl
 uid: 62759bed-38f7-42cf-4ed7-2f344ba40a3e
 ---
 This resource contains the information regarding extremization of mutual information: capacity saddle point.
-

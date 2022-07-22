@@ -6,6 +6,7 @@ file: /courses/6-441-information-theory-spring-2016/d14633baf528941dcb5ee00a334e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.441S16: Chapter 11: Hypothesis Testing Asymptotics I'
 uid: d14633ba-f528-941d-cb5e-e00a334e1d89
 ---
 This resource contains the information regarding Hypothesis testing asymptotics I.
-

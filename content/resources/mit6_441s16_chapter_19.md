@@ -6,6 +6,7 @@ file: /courses/6-441-information-theory-spring-2016/bfe9e45c2fc4390cc3cc1819c62f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.441S16: Chapter 19: Channel Coding: Energy-Per-Bit, Continuous-Time Ch
 uid: bfe9e45c-2fc4-390c-c3cc-1819c62f1686
 ---
 This resource contains the information regarding channel coding: Energy-per-bit, continuous-time channels.
-

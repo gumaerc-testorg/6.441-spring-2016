@@ -6,6 +6,7 @@ file: /courses/6-441-information-theory-spring-2016/2243edffb30f57181ed97dcb7769
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.441S16: Chapter 1: Information Measures: Entropy and Divergence'
 uid: 2243edff-b30f-5718-1ed9-7dcb77691580
 ---
 This resource contains the information regarding information measures: entropy and divergence.
-

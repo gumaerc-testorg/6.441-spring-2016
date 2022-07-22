@@ -6,6 +6,7 @@ file: /courses/6-441-information-theory-spring-2016/184197ca5d5418da2415d37e9298
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '6.441S16: Chapter 2: Information Masures: Mutual Information'
 uid: 184197ca-5d54-18da-2415-d37e929860b9
 ---
 This resource contains the information regarding information measures: mutual information.
-
