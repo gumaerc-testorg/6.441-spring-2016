@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the midterm and final exams for the course.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: c6bbc756-db68-6ff1-13aa-bcf048321db2
 ---
@@ -9,6 +13,6 @@ This course had two exams. Both exams were take-home. Collaboration was not allo
 Exams
 -----
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Midterm Exam (PDF)]({{< baseurl >}}/resources/mit6_441s16_midterm)
+{{% resource_link 54c587c2-300b-56ab-c6f7-97f020e89325 "Midterm Exam (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Final Exam (PDF)]({{< baseurl >}}/resources/mit6_441s16_final)
+{{% resource_link 5872cf83-567d-7d25-781f-02bab153616f "Final Exam (PDF)" %}}

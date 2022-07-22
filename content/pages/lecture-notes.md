@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides the lecture notes used for the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 99ddf4a2-3a6e-f9c4-342b-b24697590209
 ---
 
-The following lecture notes were written for 6.441 by Professors Yury Polyanskiy of MIT and Yihong Wu of University of Illinois Urbana-Champaign. A complete copy of the notes are![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [available for download (PDF - 7.6MB)]({{< baseurl >}}/resources/mit6_441s16_course_notes).
+The following lecture notes were written for 6.441 by Professors Yury Polyanskiy of MIT and Yihong Wu of University of Illinois Urbana-Champaign. A complete copy of the notes are {{% resource_link 5d8f16ad-c338-5c9f-f297-5b121bd620e4 "available for download (PDF - 7.6MB)" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -27,7 +31,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 1: Information measures: Entropy and divergence (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_1)
+{{% resource_link 2243edff-b30f-5718-1ed9-7dcb77691580 "Chapter 1: Information measures: Entropy and divergence (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -44,7 +48,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 2: Information measures: Mutual information (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_2)
+{{% resource_link 184197ca-5d54-18da-2415-d37e929860b9 "Chapter 2: Information measures: Mutual information (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -67,7 +71,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 3: Sufficient statistic. Continuity of divergence and mutual information. (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_3)
+{{% resource_link 486b7d83-cc42-8acf-75b7-4323ecafcc11 "Chapter 3: Sufficient statistic. Continuity of divergence and mutual information. (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -90,7 +94,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 4: Extremization of mutual information: Capacity saddle point (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_4)
+{{% resource_link 62759bed-38f7-42cf-4ed7-2f344ba40a3e "Chapter 4: Extremization of mutual information: Capacity saddle point (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -115,7 +119,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 5: Single-letterization. Probability of error. Entropy rate. (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_5)
+{{% resource_link b208f091-f760-52d6-0eda-895dc8d13e97 "Chapter 5: Single-letterization. Probability of error. Entropy rate. (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -148,7 +152,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 6: Variable-length Lossless Compression (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_441s16_chapter_6)
+{{% resource_link 67d8e68c-d8fd-a553-66e3-f9f0a9465c17 "Chapter 6: Variable-length Lossless Compression (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -163,7 +167,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 7: Fixed-length (almost lossless) compression. Slepian-Wolf problem. (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_7)
+{{% resource_link 85014cb1-add9-f415-ef38-f60f678f16b2 "Chapter 7: Fixed-length (almost lossless) compression. Slepian-Wolf problem. (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -186,7 +190,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 8: Compressing stationary ergodic sources (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_8)
+{{% resource_link 099eee31-611a-15cb-b951-bd427a89428f "Chapter 8: Compressing stationary ergodic sources (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -205,7 +209,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 9: Universal compression (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_9)
+{{% resource_link 18b243d5-e475-579b-7434-260214ad9a25 "Chapter 9: Universal compression (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -234,7 +238,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 10: Binary hypothesis testing (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_10)
+{{% resource_link 26fd180f-40b6-773b-f19b-659a4c5e8656 "Chapter 10: Binary hypothesis testing (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -257,7 +261,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 11: Hypothesis testing asymptotics I (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_11)
+{{% resource_link d14633ba-f528-941d-cb5e-e00a334e1d89 "Chapter 11: Hypothesis testing asymptotics I (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -274,7 +278,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 12: Information projection and Large deviation (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_12)
+{{% resource_link 70ca499b-4657-031e-e80d-edff6f4a5a22 "Chapter 12: Information projection and Large deviation (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -293,7 +297,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 13: Hypothesis testing asymptotics II (PDF - 2.0MB)]({{< baseurl >}}/resources/mit6_441s16_chapter_13)
+{{% resource_link 23be1265-744c-2e9e-8962-e79985cdda45 "Chapter 13: Hypothesis testing asymptotics II (PDF - 2.0MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -316,7 +320,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 14: Channel coding (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_14)
+{{% resource_link 8d9b42a8-d43e-28ca-4a75-e09fb4a89371 "Chapter 14: Channel coding (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -335,7 +339,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 15: Channel coding: Achievability bounds (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_15)
+{{% resource_link 83c18c0b-0ff3-d650-e873-4b7bc678a2fd "Chapter 15: Channel coding: Achievability bounds (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -354,7 +358,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 16: Linear codes. Channel capacity. (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_16)
+{{% resource_link f417578e-714d-472c-b08d-463825e45f03 "Chapter 16: Linear codes. Channel capacity. (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -375,7 +379,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 17: Channels with input constraints. Gaussian channels. (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_17)
+{{% resource_link 24fb44b6-a101-e847-c32f-fe38bbeeea6e "Chapter 17: Channels with input constraints. Gaussian channels. (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -402,7 +406,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 18: Lattice codes (by O. Ordentlich) (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_18)
+{{% resource_link 18e413df-88c6-3035-54cc-45a6b3b876b6 "Chapter 18: Lattice codes (by O. Ordentlich) (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -423,7 +427,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 19: Channel coding: Energy-per-bit, continuous-time channels (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_441s16_chapter_19)
+{{% resource_link bfe9e45c-2fc4-390c-c3cc-1819c62f1686 "Chapter 19: Channel coding: Energy-per-bit, continuous-time channels (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -444,7 +448,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 20: Advanced channel coding. Source-Channel separation. (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_20)
+{{% resource_link dfddd434-5fee-8dd4-9420-be583be2b952 "Chapter 20: Advanced channel coding. Source-Channel separation. (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -465,7 +469,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 21: Channel coding with feedback (PDF - 1.2MB)]({{< baseurl >}}/resources/mit6_441s16_chapter_21)
+{{% resource_link a5ff16d9-29ef-de1d-8313-e12e372aa94b "Chapter 21: Channel coding with feedback (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -482,7 +486,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 22: Capacity-achieving codes via Forney concatenation (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_22)
+{{% resource_link 7553afe0-0a36-3016-4b8e-774456d0fdcf "Chapter 22: Capacity-achieving codes via Forney concatenation (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -507,7 +511,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 23: Rate-distortion theory (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_23)
+{{% resource_link 880c3987-8ba7-dc35-a5fb-b35758d42a69 "Chapter 23: Rate-distortion theory (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -524,7 +528,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 24: Rate distortion: Achievability bounds (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_24)
+{{% resource_link aaa8d18d-decd-e45f-9713-4d3f3dcee4a3 "Chapter 24: Rate distortion: Achievability bounds (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -541,7 +545,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 25: Evaluating R(D). Lossy Source-Channel separation. (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_25)
+{{% resource_link 5721b7df-786b-416d-adad-7c7bb3364d00 "Chapter 25: Evaluating R(D). Lossy Source-Channel separation. (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -566,7 +570,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 26: Multiple-access channel (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_26)
+{{% resource_link 31c5d8ec-6bbf-9f67-c663-3ac2386351ed "Chapter 26: Multiple-access channel (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -583,7 +587,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 27: Examples of MACs. Maximal Pe and zero-error capacity. (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_27)
+{{% resource_link 86f91ca4-afba-0229-a349-7e6516e28e10 "Chapter 27: Examples of MACs. Maximal Pe and zero-error capacity. (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -610,7 +614,7 @@ SECTIONS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 28: Random number generators (PDF)]({{< baseurl >}}/resources/mit6_441s16_chapter_28)
+{{% resource_link 6b2a2c6a-7a80-dc39-f60b-e8f847f3bbd2 "Chapter 28: Random number generators (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
