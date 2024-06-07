@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding fixed-length (almost
   lossless) compression. Slepian-Wolf problem..
 file: /courses/6-441-information-theory-spring-2016/85014cb1add9f415ef38f60f678f16b2_MIT6_441S16_chapter_7.pdf
+file_size: 568687
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
