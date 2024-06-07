@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding hypothesis testing asymptotics
   II.
 file: /courses/6-441-information-theory-spring-2016/23be1265744c2e9e8962e79985cdda45_MIT6_441S16_chapter_13.pdf
+file_size: 2135886
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

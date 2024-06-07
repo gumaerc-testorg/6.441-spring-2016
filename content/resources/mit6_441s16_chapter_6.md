@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding variable-length lossless
   compression.
 file: /courses/6-441-information-theory-spring-2016/67d8e68cd8fda55366e3f9f0a9465c17_MIT6_441S16_chapter_6.pdf
+file_size: 1154490
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
