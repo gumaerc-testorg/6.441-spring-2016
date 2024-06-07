@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding course notes.
 file: /courses/6-441-information-theory-spring-2016/5d8f16adc3385c9ff2975b121bd620e4_MIT6_441S16_course_notes.pdf
+file_size: 7929944
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

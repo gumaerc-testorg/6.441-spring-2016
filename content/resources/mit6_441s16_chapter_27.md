@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding examples of MACs. Maximal
   pe and zero-error capacity.
 file: /courses/6-441-information-theory-spring-2016/86f91ca4afba0229a3497e6516e28e10_MIT6_441S16_chapter_27.pdf
+file_size: 575744
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

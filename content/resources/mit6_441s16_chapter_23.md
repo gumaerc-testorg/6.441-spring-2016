@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding rate-distortion theory.
 file: /courses/6-441-information-theory-spring-2016/880c39878ba7dc35a5fbb35758d42a69_MIT6_441S16_chapter_23.pdf
+file_size: 636050
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding channel coding: Energy-per-bit,
   continuous-time channels.'
 file: /courses/6-441-information-theory-spring-2016/bfe9e45c2fc4390cc3cc1819c62f1686_MIT6_441S16_chapter_19.pdf
+file_size: 1197474
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

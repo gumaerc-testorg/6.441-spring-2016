@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding multiple-access channel.
 file: /courses/6-441-information-theory-spring-2016/31c5d8ec6bbf9f67c6633ac2386351ed_MIT6_441S16_chapter_26.pdf
+file_size: 855916
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

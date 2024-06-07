@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding information measures:
   entropy and divergence.'
 file: /courses/6-441-information-theory-spring-2016/2243edffb30f57181ed97dcb77691580_MIT6_441S16_chapter_1.pdf
+file_size: 601777
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

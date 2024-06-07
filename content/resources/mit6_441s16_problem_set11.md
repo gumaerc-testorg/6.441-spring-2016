@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains the information regarding information theory:
   Problem set.'
 file: /courses/6-441-information-theory-spring-2016/4828d57781a6116a145e06e5a2e454eb_MIT6_441S16_problem_set11.pdf
+file_size: 225966
 file_type: application/pdf
 learning_resource_types:
 - Assignments
