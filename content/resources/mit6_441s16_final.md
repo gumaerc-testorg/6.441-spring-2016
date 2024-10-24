@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Final.
-file: /courses/6-441-information-theory-spring-2016/5872cf83567d7d25781f02bab153616f_MIT6_441S16_final.pdf
+file: /ol-ocw-studio-app/courses/6-441-information-theory-spring-2016/5872cf83567d7d25781f02bab153616f_MIT6_441S16_final.pdf
 file_size: 221794
 file_type: application/pdf
 learning_resource_types:

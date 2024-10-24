@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Binary hypothesis testing.
-file: /courses/6-441-information-theory-spring-2016/26fd180f40b6773bf19b659a4c5e8656_MIT6_441S16_chapter_10.pdf
+file: /ol-ocw-studio-app/courses/6-441-information-theory-spring-2016/26fd180f40b6773bf19b659a4c5e8656_MIT6_441S16_chapter_10.pdf
 file_size: 647062
 file_type: application/pdf
 learning_resource_types:

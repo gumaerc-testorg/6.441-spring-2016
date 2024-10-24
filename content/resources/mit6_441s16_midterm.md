@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Midterm Exam.
-file: /courses/6-441-information-theory-spring-2016/54c587c2300b56abc6f797f020e89325_MIT6_441S16_midterm.pdf
+file: /ol-ocw-studio-app/courses/6-441-information-theory-spring-2016/54c587c2300b56abc6f797f020e89325_MIT6_441S16_midterm.pdf
 file_size: 258364
 file_type: application/pdf
 learning_resource_types:
