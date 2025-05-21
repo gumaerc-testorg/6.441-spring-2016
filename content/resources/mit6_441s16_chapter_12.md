@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Information projection
   and large deviation.
-file: /ol-ocw-studio-app/courses/6-441-information-theory-spring-2016/70ca499b4657031ee80dedff6f4a5a22_MIT6_441S16_chapter_12.pdf
+file: /courses/6-441-information-theory-spring-2016/70ca499b4657031ee80dedff6f4a5a22_MIT6_441S16_chapter_12.pdf
 file_size: 626710
 file_type: application/pdf
 learning_resource_types:

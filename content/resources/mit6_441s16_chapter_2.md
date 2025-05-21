@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding information measures:
   mutual information.'
-file: /ol-ocw-studio-app/courses/6-441-information-theory-spring-2016/184197ca5d5418da2415d37e929860b9_MIT6_441S16_chapter_2.pdf
+file: /courses/6-441-information-theory-spring-2016/184197ca5d5418da2415d37e929860b9_MIT6_441S16_chapter_2.pdf
 file_size: 622913
 file_type: application/pdf
 learning_resource_types:

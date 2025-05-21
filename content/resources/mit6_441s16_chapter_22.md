@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding capacity-achieving codes
   via forney concatenation.
-file: /ol-ocw-studio-app/courses/6-441-information-theory-spring-2016/7553afe00a3630164b8e774456d0fdcf_MIT6_441S16_chapter_22.pdf
+file: /courses/6-441-information-theory-spring-2016/7553afe00a3630164b8e774456d0fdcf_MIT6_441S16_chapter_22.pdf
 file_size: 493351
 file_type: application/pdf
 learning_resource_types:
