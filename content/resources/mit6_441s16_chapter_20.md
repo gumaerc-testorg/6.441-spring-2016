@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding advanced channel coding.
   Source-channel separation.
-file: /ol-ocw-studio-app/courses/6-441-information-theory-spring-2016/dfddd4345fee8dd49420be583be2b952_MIT6_441S16_chapter_20.pdf
+file: /courses/6-441-information-theory-spring-2016/dfddd4345fee8dd49420be583be2b952_MIT6_441S16_chapter_20.pdf
 file_size: 676853
 file_type: application/pdf
 learning_resource_types:

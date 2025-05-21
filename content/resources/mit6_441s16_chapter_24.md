@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding rate distortion: achievability
   bounds.'
-file: /ol-ocw-studio-app/courses/6-441-information-theory-spring-2016/aaa8d18ddecde45f97134d3f3dcee4a3_MIT6_441S16_chapter_24.pdf
+file: /courses/6-441-information-theory-spring-2016/aaa8d18ddecde45f97134d3f3dcee4a3_MIT6_441S16_chapter_24.pdf
 file_size: 775325
 file_type: application/pdf
 learning_resource_types:
