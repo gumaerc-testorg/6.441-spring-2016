@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding extremization of mutual
   information: capacity saddle point.'
-file: /ol-ocw-studio-app/courses/6-441-information-theory-spring-2016/62759bed38f742cf4ed72f344ba40a3e_MIT6_441S16_chapter_4.pdf
+file: /courses/6-441-information-theory-spring-2016/62759bed38f742cf4ed72f344ba40a3e_MIT6_441S16_chapter_4.pdf
 file_size: 612524
 file_type: application/pdf
 learning_resource_types:

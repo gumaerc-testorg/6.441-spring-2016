@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding linear codes. Channel
   capacity.
-file: /ol-ocw-studio-app/courses/6-441-information-theory-spring-2016/f417578e714d472cb08d463825e45f03_MIT6_441S16_chapter_16.pdf
+file: /courses/6-441-information-theory-spring-2016/f417578e714d472cb08d463825e45f03_MIT6_441S16_chapter_16.pdf
 file_size: 771722
 file_type: application/pdf
 learning_resource_types:
