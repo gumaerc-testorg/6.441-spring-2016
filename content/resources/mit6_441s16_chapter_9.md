@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding universal compression.
-file: /courses/6-441-information-theory-spring-2016/18b243d5e475579b7434260214ad9a25_MIT6_441S16_chapter_9.pdf
+file: /ol-ocw-studio-app/courses/6-441-information-theory-spring-2016/18b243d5e475579b7434260214ad9a25_MIT6_441S16_chapter_9.pdf
 file_size: 617023
 file_type: application/pdf
 learning_resource_types:
