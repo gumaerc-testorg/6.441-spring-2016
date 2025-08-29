@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding information theory:
   Problem set.'
-file: /courses/6-441-information-theory-spring-2016/afb74dda2492e078da22db0b8ae3bf37_MIT6_441S16_problem_set4.pdf
+file: /ol-ocw-studio-app/courses/6-441-information-theory-spring-2016/afb74dda2492e078da22db0b8ae3bf37_MIT6_441S16_problem_set4.pdf
 file_size: 136422
 file_type: application/pdf
 learning_resource_types:

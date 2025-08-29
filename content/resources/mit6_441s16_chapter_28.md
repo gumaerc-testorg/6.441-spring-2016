@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding random number generators.
-file: /courses/6-441-information-theory-spring-2016/6b2a2c6a7a80dc39f60be8f847f3bbd2_MIT6_441S16_chapter_28.pdf
+file: /ol-ocw-studio-app/courses/6-441-information-theory-spring-2016/6b2a2c6a7a80dc39f60be8f847f3bbd2_MIT6_441S16_chapter_28.pdf
 file_size: 584772
 file_type: application/pdf
 learning_resource_types:
