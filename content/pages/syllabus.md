@@ -18,7 +18,7 @@ This is a graduate-level introduction to mathematics of information theory. We w
 
 ## Course Prerequisites
 
-This course requires knowledge of theorem-proof exposition and probability theory, as taught in [6.042J Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) or [6.436J Fundamentals of Probability](https://ocw.mit.edu/courses/6-436j-fundamentals-of-probability-fall-2018/).
+This course requires knowledge of theorem-proof exposition and probability theory, as taught in {{% resource_link "5078b55c-87bf-4bee-93dc-3d7c316b0686" "6.042J Mathematics for Computer Science" %}} or {{% resource_link "4eed59b7-53ec-477a-88bc-f639d0ea57a6" "6.436J Fundamentals of Probability" %}}.
 
 ## Course Topics
 
